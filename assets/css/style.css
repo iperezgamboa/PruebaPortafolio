@@ -1,0 +1,21 @@
+@media screen and (max-width: 500px) {
+
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+body {
+    font-family: "Oswald", sans-serif;
+    
+}
+
+header {
+    background-image: url("https://lh3.googleusercontent.com/5DuTCe1XuwAc0TVGSGXqmeQDSdtPdUXn_YLcc77q5WRfkm-hMzuvv8CgNIDEqZ7JLka2e3tQc517DzFEZ4-dpt4A13_HZDSsxT9746_IMEVML50KYr1zCTbIIJKhb530Ho436o51DmUWSjmMO1iyoBHe8FgJlB-lopoDHAaJAgg3rK4k5oro9qYoMWR0kDvw5h9Jo3p7vX8NkcwNvDliAjgaAXzekIhZWbR8jYAzTyKyEI0_u02PwnZ6wYGGV2BQV7EltZjwC7D_Jz5GxLp0d42uCu203jxdvpJjkAesaChqCgvBjHjvoiCbZ0RR-1Pxdh8Suqw77km9MeR1MhZ6-KGSsX8KhEDlfge90VmAh52ZnMsRBSKUE4v0P2PG6z2awuMUskz_SoDS7kTv-70TDgtG-eHGvPRYNpFuJrphiJskiakUYtTNfg2jCoEVLeq8gEzTnId9qsTshkE1pQ6J6cXOsgiNmWdoDDNGOTE-V36kFHm_ryq4HcBDbaBk4NWVhFVkLT2e2HxtHYbIrtYnt_Ewj-NXYJv8dJxYMmFjnIIn7CpoBefmA-rOFn-I6qlX_oBb1pw5A7wdkDCIGtZSWwdK0JLBNmZYzzQvYcQBQ6YGh7es62ooYpj4MtjlOxhykiW6fPZcxdKvxc02mqcJLrAmrBP4ilbS4T0lZ8DKZTJXdjW277DCg9VMhOlSQ_I=w1115-h836-no?authuser=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
